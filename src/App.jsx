@@ -41,6 +41,7 @@ function App() {
         <Footerslider/>
         <Footer/>
         <Footerheader/>
+        
     </Router>
     </>)
 }
