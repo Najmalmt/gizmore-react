@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Product 1",
+      "description": "Description of Product 1",
+      "newprice": 19.99,
+      "prevprice": 19.99,
+      "image": "../../"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "description": "Description of Product 2",
+      "price": 24.99,
+      "image": "/path/to/image2.jpg"
+    }
+  ]
+  

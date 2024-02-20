@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Product 1",
+      "image": "https://gizmore.in/cdn/shop/files/1_cb2b0eb9-61f6-48a9-8ce1-923f4a649d01.jpg?v=1706615882&width=1400",
+      "name": "GIzmore CRAZE 2.01inch (5.1cm)...",
+      "description": "Description of Product 1",
+      "newPrice": "Rs.1,599",
+        "prevPrice": "Rs.7,999",
+        "rating": 5.0,
+      "colors": ["yellow", "blue", "green"],
+      "offers":"save 40%"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "description": "Description of Product 2",
+      "rating": 3.0,
+      "newPrice": "Rs.4,699",
+      "prevPrice": "Rs.9,999",
+      "name": "GIzmore BAR6000 60W...",
+      "image": "https://gizmore.in/cdn/shop/files/2_95914545-9492-4d32-aba2-5708549419f3.jpg?v=1707291672&width=1400",
+      "colors": ["red", "blue", "green"],
+      "offers":"save 40%"
+    },
+    {
+        "id": 3,
+        "title": "Product 2",
+        "description": "Description of Product 2",
+        "rating": 3.0,
+        "newPrice": "Rs.6,299",
+        "prevPrice": "Rs.11,999",
+        "name": "GIzmore Trolley T3000 DRUMM...",
+        "image": "https://gizmore.in/cdn/shop/files/2opt_a5e1b3b8-3928-4875-9f53-805f59228d8d.jpg?v=1705320539&width=1400",
+        "colors": ["decoration-rose-600", "blue", "green"],
+        "offers":"save 40%"
+
+    },
+    {
+        "id": 4,
+        "title": "Product 2",
+        "description": "Description of Product 2",
+        "name": "GIzmore BAR6000 60W...",
+        "newPrice": "Rs.3,999",
+        "prevPrice": "Rs.7,999",
+        "image": "https://gizmore.in/cdn/shop/files/1_f516e83c-c895-4e6a-9d78-bb257ed16081.jpg?v=1693920200&width=1400",
+        "colors": ["decoration-rose-600", "blue", "green"],
+        "offers":"save 40%"
+    }
+]
+  

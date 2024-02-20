@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "image": "https://gizmore.in/cdn/shop/files/genuine_product.jpg?v=1693070546",
+      "description": "100% Genuine Product"
+    },
+    {
+      "id": 2,
+      "image": "https://gizmore.in/cdn/shop/files/7_day_return.jpg?v=1693070476",
+      "description": "7 days Replacement"
+    },
+    {
+      "id": 3,
+      "image": "https://gizmore.in/cdn/shop/files/quick_delivery.jpg?v=1693070717",
+      "description": "Quick Delivery"
+    },
+    {
+      "id": 4,
+      "image": "https://gizmore.in/cdn/shop/files/1_year_warranty.jpg?v=1693070449",
+      "description": "1 Year Warranty"
+    }
+]

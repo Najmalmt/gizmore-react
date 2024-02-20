@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Smart Watch",
+        "image": "https://gizmore.in/cdn/shop/files/sw_1024x1024.png?v=1698741304"
+    },
+    {
+        "id": 2,
+        "name": "Wired Earphones",
+        "image": "https://gizmore.in/cdn/shop/files/wired-earphone_1024x1024.png?v=1698741311"
+    },
+    {
+        "id": 3,
+        "name": "Earbuds",
+        "image": "https://gizmore.in/cdn/shop/files/tws_75c178af-547e-4cca-ae03-01ae83355429_1024x1024.png?v=1698741358"
+    },
+    {
+        "id": 4,
+        "name": "Cable & Chargers",
+        "image": "https://gizmore.in/cdn/shop/files/cable_1024x1024.png?v=1698741371"
+    },
+    {
+        "id": 5,
+        "name": "Neckband",
+        "image": "https://gizmore.in/cdn/shop/files/nb_1024x1024.png?v=1698741401"
+    },
+    {
+        "id": 6,
+        "name": "Power Bank",
+        "image": "https://gizmore.in/cdn/shop/files/power-bank_f12d7faf-677d-46d0-93fd-48c93571c2b2_1024x1024.png?v=1698741408"
+    },
+    {
+        "id": 7,
+        "name": "Sound Bar",
+        "image": "https://gizmore.in/cdn/shop/files/sb_1024x1024.png?v=1698741451"
+    },
+    {
+        "id": 8,
+        "name": "IT Accessories",
+        "image": "https://gizmore.in/cdn/shop/files/it-acc_1024x1024.png?v=1698741458"
+    },
+    {
+        "id": 9,
+        "name": "Party Speaker",
+        "image": "https://gizmore.in/cdn/shop/files/speaker_06cdb9d5-5f4b-4d2b-b2fd-e6e29f16e08f_1024x1024.png?v=1698741487"
+    },
+    {
+        "id": 10,
+        "name": "Smart Watch Acces...",
+        "image": "https://gizmore.in/cdn/shop/files/strap_1024x1024.png?v=1698741493"
+    },
+    {
+        "id": 11,
+        "name": "BT Speakers",
+        "image": "https://gizmore.in/cdn/shop/files/1_d681906d-d6a0-4725-b83d-2e445a0b0c88_1024x1024.jpg?v=1683098839"
+    }
+]
